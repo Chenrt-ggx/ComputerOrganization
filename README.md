@@ -6,6 +6,7 @@ BUAA 1906 Computer Organization
 文件有点多，偷懒直接打包了QAQ
 
 配套视频请移步B站：
+
 计算机组成原理-Github资料使用说明
 https://www.bilibili.com/video/BV1Zh411y7EH
 
